@@ -17,8 +17,8 @@ I also used existing libraries such as OpenCV, ZXing, and ZBar to implement my a
 My approach consists of the following steps:
 
     Load the image of the QR code
-    Preprocess the image by applying operations such as resizing, contrast enhancement, adaptive thresholding, and grayscale conversion
-    Detect the QR code in the preprocessed image using a QR code detection algorithm Hough transform
+    Preprocess the image by applying operations such as resizing, grayscale conversion, and Hough transformation
+    Detect the QR code in the preprocessed image using a QR code detection algorithm
     Use the Zbar library to decode the QR code to extract the information it contains into a link. 
 
 ## Datasets

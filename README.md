@@ -36,6 +36,6 @@ Here is the link: https://youtu.be/oOVEswdTeCw
 
 ## References
 
-https://zbar.sourceforge.net/
-https://opencv.org/
-https://boseji.com/posts/qr-code-reader-zbarimg/
+- https://zbar.sourceforge.net/
+- https://opencv.org/
+- https://boseji.com/posts/qr-code-reader-zbarimg/

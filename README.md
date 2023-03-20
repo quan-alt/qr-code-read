@@ -30,4 +30,6 @@ I did not use any additonal data sets outside of the ones built into the Zbar li
 During the development of my QR code image reader, I encountered several challenges such as finding the optimal parameters for preprocessing and detection algorithms, handling various types of QR codes, and dealing with noise in the input images. If I kept working on the project, I would explore more advanced techniques such as deep learning-based approaches to improve the accuracy and robustness of my approach. I would also try to implement a qr code creation app in order to make it more robust for any person to do either with the one app. My approach differs from others in that I used a combination of various image preprocessing algorithms and QR code detection and decoding algorithms to accurately detect and decode QR codes from images. This approach was beneficial because it allowed me to achieve high accuracy and speed with relatively simple algorithms.
 ## Demo
 
-I provide a live demo of my QR code image reader, where users can upload an image of a QR code and get the decoded information displayed on the screen.
+Below you will find a live demo of my QR code image reader, where users can upload an image of a QR code and get the decoded information displayed on the screen.
+
+Here is the link: https://youtu.be/oOVEswdTeCw

@@ -32,7 +32,7 @@ During the development of my QR code image reader, I encountered several challen
 
 Below you will find a live demo of my QR code image reader, where users can upload an image of a QR code and get the decoded information displayed on the screen.
 
-Here is the link: https://youtu.be/oOVEswdTeCw
+Here is the link: https://youtu.be/KvDJFHTIa24
 
 ## References
 
